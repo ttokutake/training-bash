@@ -1,0 +1,4 @@
+def func() do
+  _ =	"a"
+	IO.puts "hello, world!"
+end
